@@ -9,11 +9,11 @@ Dependencias
 
 Comandos de Git
 
-Git init
-git add *
-git commit -m "Testname"
-git remote add origin "urldel proyect"
-git push -u origin master
+1. Git init
+2. git add *
+3. git commit -m "Testname"
+4. git remote add origin "urldel proyect"
+5. git push -u origin master
 
-Patron Screenplay
+# Patron Screenplay
 
