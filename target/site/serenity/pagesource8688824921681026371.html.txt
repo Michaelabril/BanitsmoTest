@@ -1,0 +1,1523 @@
+<html lang="es"><head><style>@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    <meta name="google" content="notranslate">
+    <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+
+    <link rel="shortcut icon" type="image/x-icon" href="/BanistmoThemeEmpresasStatic/themes/Banistmo/images/favicon-grupo.ico">
+    <link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=15&amp;themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1613423202000&amp;entry=bco_fonts__1.0%3Ahead_css&amp;entry=bco_transversal_css__1.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=css_wcm_custom__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=7&amp;themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1613423202000&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-751516.js?sv=7"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/1638640773132669?v=2.9.47&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DTRK5N"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_38G2HA80N87M00AB62GT7524G0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_38G2HA80N87M00AB62GT752GM3","Z6_38G2HA80N87M00AB62GT7524G0","Z6_000000000000000000000000A0","Z6_38G2HA80N87M00AB62GT7524G0","Z6_38G2HA80N87M00AB62GT7524G0","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41NO8490QLEAGI8QBS03","Z6_38G2HA80N87M00AB62GT7520B5","Z6_38G2HA80N87M00AB62GT752GM3","Z6_38G2HA80N87M00AB62GT752OL5"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_38G2HA80N87M00AB62GT7520B5','Z6_2G9I1K41NO8490QLEAGI8QBS03','Z6_38G2HA80N87M00AB62GT752GM3','Z6_38G2HA80N87M00AB62GT752OL5','Z6_38G2HA80N87M00AB62GT7524G0'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1605650938000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512160368000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;deferred=true"><link id="yvHLAu.L4N2" rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial/!ut/p/z1/jY_LCsIwEEW_pV8w0yRt02UCMgb7oGhpnY1kJQGtLsTvVwouHXp3A-c-Bhhm4CW-0zW-0mOJt-995vKiLam9s9jZqkV0vlR0qgplCGGSAGo18BY__pHDbX4BYDl-ApYq-qaQgfXFFVBUh_xg8q63psah2TkKdvBH1HIC-l-FMPN5H8cZU0guyz68uGH4/"><script type="text/javascript">(function() {
+	var element = document.getElementById("yvHLAu.L4N2");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><base href="https://www.banistmo.com/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial/!ut/p/z1/jY_LCsIwEEW_pV8w0yRt02UCMgb7oGhpnY1kJQGtLsTvVwouHXp3A-c-Bhhm4CW-0zW-0mOJt-995vKiLam9s9jZqkV0vlR0qgplCGGSAGo18BY__pHDbX4BYDl-ApYq-qaQgfXFFVBUh_xg8q63psah2TkKdvBH1HIC-l-FMPN5H8cZU0guyz68uGH4/">
+<title>Cuenta de Ahorro Comercial para Empresas Banistmo</title>
+
+<meta content="solicitar seguro para hogar,cobrar seguro de hogar,asegurar hogar,asegurar muebles,proteger vivienda de incendios,asegurar gasodomesticos,Asegurar electrodomesticos,atencion domiciliaria,atencion 24 horas,asegurar vivienda,plan hogar bancolombia,quiero asegurar mi casa,tarifas para asegurar mi casa,como solicitar plan hogar,como asegurar mi casa,como solicitar asistencia domiciliaria,como obtener plan hogar,quiero proteger mi casa,seguro de inmueble,seguro de enseres." name="keywords"><meta content="index, follow" name="robots"><meta content="Conozca los beneficios y tarifas que la Cuenta de Ahorro Comercial ofrece a su negocio y lleve el control a través de la Sucursal Virtual Empresas sobre las transacciones que genera su negocio." name="description">
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial/!ut/p/z1/jY_LCsIwEEW_pV8w0yRt02UCMgb7oGhpnY1kJQGtLsTvVwouHXp3A-c-Bhhm4CW-0zW-0mOJt-995vKiLam9s9jZqkV0vlR0qgplCGGSAGo18BY__pHDbX4BYDl-ApYq-qaQgfXFFVBUh_xg8q63psah2TkKdvBH1HIC-l-FMPN5H8cZU0guyz68uGH4/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzM4RzJIQTgwTjg3TTAwQUI2MkdUNzUyNEcw/">
+
+
+<link href="/wps/contenthandler/!ut/p/war/BanistmoThemeEmpresasStatic/themes/Banistmo/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<base href="https://www.banistmo.com/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial/!ut/p/z1/jY_LCsIwEEW_pV8w0yRt02UCMgb7oGhpnY1kJQGtLsTvVwouHXp3A-c-Bhhm4CW-0zW-0mOJt-995vKiLam9s9jZqkV0vlR0qgplCGGSAGo18BY__pHDbX4BYDl-ApYq-qaQgfXFFVBUh_xg8q63psah2TkKdvBH1HIC-l-FMPN5H8cZU0guyz68uGH4/">
+<title>Cuenta de Ahorro Comercial para Empresas Banistmo</title>
+
+<meta content="solicitar seguro para hogar,cobrar seguro de hogar,asegurar hogar,asegurar muebles,proteger vivienda de incendios,asegurar gasodomesticos,Asegurar electrodomesticos,atencion domiciliaria,atencion 24 horas,asegurar vivienda,plan hogar bancolombia,quiero asegurar mi casa,tarifas para asegurar mi casa,como solicitar plan hogar,como asegurar mi casa,como solicitar asistencia domiciliaria,como obtener plan hogar,quiero proteger mi casa,seguro de inmueble,seguro de enseres." name="keywords"><meta content="index, follow" name="robots"><meta content="Conozca los beneficios y tarifas que la Cuenta de Ahorro Comercial ofrece a su negocio y lleve el control a través de la Sucursal Virtual Empresas sobre las transacciones que genera su negocio." name="description">
+	
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial">
+		
+	<link rel="bookmark" title="Cuenta de Ahorro Comercial" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial" hreflang="es">
+
+<script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/jquery-1.11.3.ui.min.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/angular-1.8.2.js"></script>
+
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/modules/slide-min.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/modules/mobile-detect.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/modules/modules.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/modules/jquery.basictable.min.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/modules/wow.min.js" defer=""></script>
+
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+    </script>
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DTRK5N" height="0" width="0" style="display:none;visibility:hidden" title=""></iframe></noscript>
+
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5DTRK5N');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".close").click(function() {
+                $(".btn-chat").toggle();
+                $(this).toggleClass("open");
+            });
+        });
+    </script>
+
+</head>
+
+<body class="toolbar-closed">
+
+    <div class="wpthemeFrame">
+        <header role="banner" tabindex="-1" aria-label="Main header">
+            </header>
+    </div>
+
+    
+
+<portletapi:init>
+<link href="/wps/wcm/connect/www.banistmo.com11237/51f5d153-4fa7-481c-8930-fd0aef663207/styles-header.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-51f5d153-4fa7-481c-8930-fd0aef663207-nqbCdrx" type="text/css" rel="stylesheet">
+<link href="/wps/wcm/connect/www.banistmo.com11237/f2859605-6218-4539-b609-0bb9784ae5d3/styles-footer.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f2859605-6218-4539-b609-0bb9784ae5d3-npE4anZ" type="text/css" rel="stylesheet">
+<link href="/wps/wcm/connect/www.banistmo.com11237/92e2a500-1006-469d-8143-32bbc0609026/styles-general_act_03_08_2021.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-92e2a500-1006-469d-8143-32bbc0609026-nIOact6" type="text/css" rel="stylesheet">
+<link href="/wps/wcm/connect/www.banistmo.com11237/92e2a500-1006-469d-8143-32bbc0609026/styles-general_act_03_08_2021.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-92e2a500-1006-469d-8143-32bbc0609026-nIOact6" type="text/css" rel="stylesheet">
+
+
+   <nav class="navbar bg-black empresas" id="menu-top">
+    <div class="container">
+        <ul class="nav navbar-nav">
+            <li><a href="/wps/portal/banistmo/personas/">Personas</a></li>
+            <li><a href="/wps/portal/banistmo/pymes/">Pymes</a></li>
+            <li><a href="/wps/portal/banistmo/empresas/" class="active">Empresas</a></li>
+            <li><a href="/wps/portal/banistmo/acerca-de/">Acerca de nosotros</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div id="main-menu">
+
+    <div class="row-fluid">
+        <div class="navbar navbar-default menu">
+
+            <!-- icon-bar responsive -->
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse-grid">
+                            <span class="icon-bar"></span><span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+            </div>
+            <!-- icon-bar responsive -->
+
+            <div class="navbar-collapse collapse" id="navbar-collapse-grid">
+
+                <!-- menú -->
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="navbar-brand" href="/wps/portal/banistmo/personas/">   
+                                <img src="/wps/wcm/connect/www.banistmo.com11237/f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad/logo-banistmo-menu.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad-nzwptVu" alt="" width="135" height="23">
+                            </a>
+                    </li>
+
+                    <li class="dropdown menu-fw"><a href="/wps/portal/banistmo/empresas/"><strong>Inicio</strong></a></li>
+
+                    <li class="dropdown menu-fw"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Productos &amp; Servicios</a>
+                        <ul class="dropdown-menu">
+                            <li class="drop-submenu">
+                                <div class="col-sm-12 submenu">
+                                    <h2>Productos &amp; Servicios</h2>
+                                    <ul>
+                                        <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/">Depósitos</a></li>
+                                        <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/prestamos/">Préstamos</a></li>
+                                        <li> <a href="/wps/portal/banistmo/empresas/productos-y-servicios/cash-management/">Cash Management</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li> <a href="/wps/portal/banistmo/empresas/productos-y-servicios/tarjetas-credito/">Tarjetas de Crédito</a></li>
+                                        <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/leasing-banistmo/">Leasing Banistmo</a></li>
+                                        <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/planilla-comercial/">Planilla Comercial</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/itbms/">Retención de ITBMS</a></li>
+                                        <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/comercio-internacional/">Comercio Internacional</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-12 shortcut">
+                                    <h2>Canales para tu servicio</h2>
+                                    <ul>
+                                        <li>
+                                            <a href="https://www.banistmo.com/wps/portal/banistmo/empresas/productos-y-servicios/sucursal-virtual-empresas/">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/39a50d57-bdcf-422a-b8f6-b8e63b2a9f27/icon-laptop.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-39a50d57-bdcf-422a-b8f6-b8e63b2a9f27-nmQ8pc3" alt="" width="48" height="48">  Banca en Línea <span>Empresas</span>
+                                                </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/empresas/productos-y-servicios/sucursal-telefonica-empresas/">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/a44949b7-622c-4c1b-a040-3ab7485711ac/icon-contact-center.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a44949b7-622c-4c1b-a040-3ab7485711ac-nmQ7-1c" alt="" width="48" height="48"> Sucursal Telefónica <span>Empresas</span>
+                                                </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-fisica/">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/1f188819-a31e-4573-9f2c-d95e51857fee/icon-office.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-1f188819-a31e-4573-9f2c-d95e51857fee-nmQ8xie" alt="" width="48" height="48"> Surcursales
+                                                </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/empresas/productos-y-servicios/a-tu-lado/">
+
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/c95e502c-788b-40e4-a43b-a523fdc8b1e2/icon-store.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c95e502c-788b-40e4-a43b-a523fdc8b1e2-nmQ8Eud" alt="" width="48" height="48"> Comercios Autorizados
+                                                </a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <!-- end menú -->
+
+                <!-- search , buttons -->
+                <div class="navbar-right">
+                    <form class="navbar-form" action="/wps/portal/banistmo/acerca-de/buscador-de-contenido">
+                        <div class="search-component">
+                            <img src="/wps/wcm/connect/www.banistmo.com11237/fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb/icon-search.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb-npk06fo" alt="" width="24" height="24">
+                            <input type="text" id="termino" name="termino" class="form-control btn-search" placeholder="Buscar">
+                        </div>
+                        <a href="#" target="null" onclick="open(&quot;https://empresas.banistmo.com/ceipanama_cei/images/index.html?_ga=2.113534596.2083999034.1521760374-2031791567.1518616465&quot;, &quot;Banistmo&quot;, &quot;status=yes,scrollbars=yes,resizable=yes,fullscreen=yes&quot;);" class="btn btn-default">
+                            Conexión Empresarial <img src="/wps/wcm/connect/www.banistmo.com11237/42209645-2696-4a41-9055-b31c5e9981da/hand-button.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-42209645-2696-4a41-9055-b31c5e9981da-nmUlctF" alt="" width="24" height="24"> </a>
+                        <a href="#" target="null" onclick="open(&quot;https://empresa.banistmo.com&quot;, &quot;Banistmo&quot;, &quot;status=yes,scrollbars=yes,resizable=yes,fullscreen=yes&quot;);" class="btn btn-primary">
+                            Banca en Línea Empresas <img src="/wps/wcm/connect/www.banistmo.com11237/bca10970-b270-49c3-b359-7051a6020a21/lock.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-bca10970-b270-49c3-b359-7051a6020a21-nmUk-Ay" alt="" width="24" height="24"> </a>
+                    </form>
+                </div>
+                <!-- end search , buttons -->
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+	<div class="breadcrumbs" id="breadcrumbs">
+		
+            <div class="container container-max">
+                <ul itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo">
+                                        <span class="titlebreadcrumb" itemprop="name">Banistmo</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="1">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/empresas">
+                                        <span class="titlebreadcrumb" itemprop="name">Empresas</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="2">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/empresas/productos-y-servicios">
+                                        <span class="titlebreadcrumb" itemprop="name">Productos y Servicios</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="3">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos">
+                                        <span class="titlebreadcrumb" itemprop="name">Depósitos</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="4">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial">
+                                        <span class="titlebreadcrumb" itemprop="name">Cuenta de Ahorro Comercial</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="5">
+                                </a>
+                            </li>
+                    
+                </ul>
+            </div>
+		
+	</div>
+
+<link href="/wps/wcm/connect/www.banistmo.com11237/b831385c-7cca-42c9-9973-d731533ef78d/styles-chat.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b831385c-7cca-42c9-9973-d731533ef78d-nnCUOmV" type="text/css" rel="stylesheet">
+  <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" target="_blank" class="btn-chat">
+    <img src="/wps/wcm/connect/www.banistmo.com11237/787a4ed0-8cd2-4561-9421-1a2ee4e153d2/icono-chat.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-787a4ed0-8cd2-4561-9421-1a2ee4e153d2-nnC9urI" alt="" width="26" height="26">
+  </a>
+<!-- end frame class="wpthemeMainContent" -->
+    <div role="main" tabindex="-1" aria-label="IBM WebSphere Portal" id="main-content">
+        <!-- required - do not remove -->
+        <div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+            <div class="wpthemeInner">
+                
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_8252I1C0MO0OF0ABLVQR7T87H3"><span id="Z7_8252I1C0MO0OF0ABLVQR7T87H3"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0MO0OF0ABLVQR7T87H3" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0MO0OF0ABLVQR7T87H3</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+<style>
+#main-content {
+  background: rgba(0, 0, 0, 0) url("") repeat scroll center bottom;
+}
+
+@media screen and (max-width: 768px) {
+    .encabezado>.fondo {
+        position:relative;
+        background-position: center;
+        height: 250px
+    }
+}
+</style>
+
+<link rel="stylesheet" href="" type="text/css">
+
+<div class="encabezado titulo-contenido-boton">
+  <div class="fondo" style="background-image: url(&quot;/wps/wcm/connect/www.banistmo.com11237/9f7c000b-7dfb-44b1-87f8-9a97b66949eb/CTA+de+Ahorro+Comercial_Banner+Web+Producto.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-9f7c000b-7dfb-44b1-87f8-9a97b66949eb-nzphPil&quot;); background-position: 50% 50%;">
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 col-xs-12">
+        <h1>Cuenta de Ahorro Comercial</h1>
+        <p dir="ltr">Perciba los beneficios de la capitalización sobre el dinero ahorrado, ya que todos los días este genera intereses sobre el saldo disponible y se lo liquidamos mensualmente a su cuenta.</p>
+
+        <div class="col-sm-6">
+        <a title="Adquiérala en nuestras sucursales" target="_blank" href="/wps/portal/banistmo/empresas/buscador-sucursales/" style="background-position: 20px center; height: 41px;" class="btn btn-primary">Adquiérala en nuestras sucursales</a>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0MO0OF0ABLVQR7T8790"><span id="Z7_8252I1C0MO0OF0ABLVQR7T8790"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0MO0OF0ABLVQR7T8790" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0MO0OF0ABLVQR7T8790</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid none">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="tabs-verticales container-fluid tabs-horizontal">
+        <div class="row">
+          <ul id="filialTabs" class="nav nav-tabs responsive col-sm-3 hidden-xs hidden-sm"><li class=""><a href="#tab1">Beneficios y servicios</a></li><li class="none"><a href="#tab2">Características</a></li><li class="none"><a href="#tab3">Requisitos</a></li><li class="none"><a href="#tab4">Tasas y tarifas</a></li><li class="none active"><a href="#tab5">Documentos</a></li></ul>
+          <div class="tab-content responsive col-sm-9 hidden-xs hidden-sm" style="min-height: 201px;"><div id="tab1" class="tab-pane">
+<h2>Beneficios y servicios</h2>
+<ul class="list-basic" dir="ltr">
+	<li>Atractiva tasa de interés anual (acreditada mensualmente a la cuenta).</li>
+	<li>Podrá realizar consultas y transacciones nacionales e internacionaless desde su cuenta a través de Sucursal Virtual Empresas (SVE).</li>
+	<li>Atención al cliente mediante nuestra Sucursal Telefónica 321-0101.</li>
+</ul>
+
+</div><div id="tab2" class="tab-pane">
+<h2>Características</h2>
+<ul class="list-basic" dir="ltr">
+	<li>Visualización inmediata de sus depósitos.</li>
+	<li>Acceso instantáneo a su dinero a través de nuestra Sucursal Virtual Empresas.</li>
+</ul>
+
+</div><div id="tab3" class="tab-pane">
+<h2>Requisitos</h2>
+<h3 dir="ltr">Persona Jurídica</h3>
+
+<ul class="list-basic" dir="ltr">
+	<li>Pacto Social y enmiendas (si existen).</li>
+	<li>Certificación de vigencia de la sociedad (Registro Público).</li>
+	<li>Evidencia de ingresos.</li>
+	<li>Cédula o pasaporte de los firmantes y dignatarios.</li>
+	<li>Segundo documento de identidad de los firmantes y dignatarios.</li>
+	<li>Cartas de referencias bancarias de la sociedad, de los firmantes y dignatarios.</li>
+	<li>Completar documentación interna del Banco.</li>
+</ul>
+
+<p dir="ltr">Para mayor información, comuníquese al 321-0101, o visite nuestra red de sucursales a nivel nacional.</p>
+
+</div><div id="tab4" class="tab-pane">
+<h2>Tasas y tarifas</h2>
+<h3 dir="ltr">Para obtener mayor información sobre los cargos bancarios conoce nuestras Tasas y Tarifas:</h3>
+
+<table class="table-responsive" dir="ltr">
+	<thead>
+		<tr>
+			<th>Documento</th>
+			<th>PDF</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-th="Documento"><span class="bt-content">Tarifas de Cuentas de Depósitos</span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/7279f731-b6fa-4208-aa21-277f005357ff/Tarifas_cuentas_depositos.pdf?MOD=AJPERES&amp;CVID=nGHBd75" title="Guía para afiliación a compra" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="45" height="57" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Documento"><span class="bt-content">Tasas de interés y montos mínimos de apertura de Depósitos</span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/81d03b5b-9555-4857-af0e-19e67d0715f7/Tarifario-Apertura-Depositos-v2.pdf?MOD=AJPERES&amp;CVID=nNsgdu4" title="Guía para afiliación a compra" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="45" height="57" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Documento"><span class="bt-content">Prohibiciones</span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/7b900517-9baa-4eac-aa23-3adeb561600e/ProhibicionesSuperIntendenciaDeBancosSIB.pdf?MOD=AJPERES&amp;CVID=lPXjRcF" title="Guía para afiliación a compra" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="45" height="57" title=""></a></span></td>
+		</tr>
+	</tbody>
+</table>
+
+</div><div id="tab5" class="tab-pane active">
+<h2>Documentos</h2>
+<table class="table" dir="ltr">
+	<tbody>
+		<tr>
+			<td style="vertical-align: middle; text-align: center;"><strong>Contrato Único de Productos y Servicios Bancarios</strong></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="/wps/wcm/connect/www.banistmo.com11237/7487365d-ee74-464e-9444-fc806b2307db/%233.+Contrato+Unico+de+Producto+y+Servicios+Bancarios+Oct15.pdf?MOD=AJPERES&amp;CVID=lKMuboh" title="Contrato Único de Productos y Servicios Bancarios" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF"></a></td>
+		</tr>
+	</tbody>
+</table>
+
+</div></div><div class="acordeon  visible-xs visible-sm" id="collapse-2"><h3 class="titulo_acordeon">Beneficios y servicios<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab1" class="col-xs-12 collapse in" aria-expanded="true" style="">
+<h2>Beneficios y servicios</h2>
+<ul class="list-basic" dir="ltr">
+	<li>Atractiva tasa de interés anual (acreditada mensualmente a la cuenta).</li>
+	<li>Podrá realizar consultas y transacciones nacionales e internacionaless desde su cuenta a través de Sucursal Virtual Empresas (SVE).</li>
+	<li>Atención al cliente mediante nuestra Sucursal Telefónica 321-0101.</li>
+</ul>
+
+</div></div></div><h3 class="titulo_acordeon">Características<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab2" class="col-xs-12">
+<h2>Características</h2>
+<ul class="list-basic" dir="ltr">
+	<li>Visualización inmediata de sus depósitos.</li>
+	<li>Acceso instantáneo a su dinero a través de nuestra Sucursal Virtual Empresas.</li>
+</ul>
+
+</div></div></div><h3 class="titulo_acordeon">Requisitos<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab3" class="col-xs-12">
+<h2>Requisitos</h2>
+<h3 dir="ltr">Persona Jurídica</h3>
+
+<ul class="list-basic" dir="ltr">
+	<li>Pacto Social y enmiendas (si existen).</li>
+	<li>Certificación de vigencia de la sociedad (Registro Público).</li>
+	<li>Evidencia de ingresos.</li>
+	<li>Cédula o pasaporte de los firmantes y dignatarios.</li>
+	<li>Segundo documento de identidad de los firmantes y dignatarios.</li>
+	<li>Cartas de referencias bancarias de la sociedad, de los firmantes y dignatarios.</li>
+	<li>Completar documentación interna del Banco.</li>
+</ul>
+
+<p dir="ltr">Para mayor información, comuníquese al 321-0101, o visite nuestra red de sucursales a nivel nacional.</p>
+
+</div></div></div><h3 class="titulo_acordeon">Tasas y tarifas<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab4" class="col-xs-12">
+<h2>Tasas y tarifas</h2>
+<h3 dir="ltr">Para obtener mayor información sobre los cargos bancarios conoce nuestras Tasas y Tarifas:</h3>
+
+<table class="table-responsive" dir="ltr">
+	<thead>
+		<tr>
+			<th>Documento</th>
+			<th>PDF</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-th="Documento"><span class="bt-content">Tarifas de Cuentas de Depósitos</span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/7279f731-b6fa-4208-aa21-277f005357ff/Tarifas_cuentas_depositos.pdf?MOD=AJPERES&amp;CVID=nGHBd75" title="Guía para afiliación a compra" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="45" height="57" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Documento"><span class="bt-content">Tasas de interés y montos mínimos de apertura de Depósitos</span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/81d03b5b-9555-4857-af0e-19e67d0715f7/Tarifario-Apertura-Depositos-v2.pdf?MOD=AJPERES&amp;CVID=nNsgdu4" title="Guía para afiliación a compra" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="45" height="57" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Documento"><span class="bt-content">Prohibiciones</span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/7b900517-9baa-4eac-aa23-3adeb561600e/ProhibicionesSuperIntendenciaDeBancosSIB.pdf?MOD=AJPERES&amp;CVID=lPXjRcF" title="Guía para afiliación a compra" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="45" height="57" title=""></a></span></td>
+		</tr>
+	</tbody>
+</table>
+
+</div></div></div><h3 class="titulo_acordeon">Documentos<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab5" class="col-xs-12">
+<h2>Documentos</h2>
+<table class="table" dir="ltr">
+	<tbody>
+		<tr>
+			<td style="vertical-align: middle; text-align: center;"><strong>Contrato Único de Productos y Servicios Bancarios</strong></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="/wps/wcm/connect/www.banistmo.com11237/7487365d-ee74-464e-9444-fc806b2307db/%233.+Contrato+Unico+de+Producto+y+Servicios+Bancarios+Oct15.pdf?MOD=AJPERES&amp;CVID=lKMuboh" title="Contrato Único de Productos y Servicios Bancarios" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF"></a></td>
+		</tr>
+	</tbody>
+</table>
+
+</div></div></div></div>
+        </div>
+      </div>    
+    </div>
+  </div>
+</div>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0MO0OF0ABLVQR7T8792"><span id="Z7_8252I1C0MO0OF0ABLVQR7T8792"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0MO0OF0ABLVQR7T8792" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0MO0OF0ABLVQR7T8792</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div id="" class="">
+  <div class="entradilla-con-fondo">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-6 col-sm-push-6 contenido">
+          <h2>Ahorrar siempre es rentable</h2>
+          <p dir="ltr">Maneje los recursos de su empresa de manera eficiente a la vez que obtiene rentabilidad sobre sus fondos.</p>
+
+            <div class="row">
+              <div class="col-sm-6">
+        <a href="/wps/portal/banistmo/empresas/buscador-sucursales/" title="Adquiérala en nuestras sucursales" target="_blank" style="background-position: 20px center; height: 36px;" class="btn btn-primary">Adquiérala en nuestras sucursales</a>
+</div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-sm-pull-6 imagen"><img src="/wps/wcm/connect/www.banistmo.com11237/7b720357-9062-484f-ad29-29c109be498c/Personas-Microcredito.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-7b720357-9062-484f-ad29-29c109be498c-lO83q0Y" alt="Adquiérala en nuestras sucursales" class="img-responsive center-block">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0MO0OF0ABLVQR7T8791"><span id="Z7_8252I1C0MO0OF0ABLVQR7T8791"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0MO0OF0ABLVQR7T8791" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0MO0OF0ABLVQR7T8791</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="salida calle-de-salida">
+  <div class="container-fluid">
+    <div class="row">
+      <div id="none" class="col-sm-12">
+        <h4></h4>
+        <p dir="ltr">Si Cuenta de Ahorro no es lo que está buscando, tal vez le interese adquirir otro tipo de <a href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/" target="" title="">Cuenta</a>. Déjenos ayudarle a encontrar lo que necesita.</p>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0MO0OF0ABLVQR7T8793"><span id="Z7_8252I1C0MO0OF0ABLVQR7T8793"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0MO0OF0ABLVQR7T8793" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0MO0OF0ABLVQR7T8793</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="none row-fluid" id="none">
+    <div class="container-fluid content-interes">
+        <div class="row none">
+            <div class="col-xs-12">
+                <h2>También le puede interesar</h2>
+            </div>
+            <div class=" row-fluid clearfix"><div class="col-md-6">
+    <div class="entradilla-con-imagenes row-fluid clearfix">
+        <div style="background-image: url(/wps/wcm/connect/www.banistmo.com11237/48578054-bb7f-40bd-b833-510efc7d52f1/Depositos_Banner+Home+Producto+2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-48578054-bb7f-40bd-b833-510efc7d52f1-nzpix2z)" class="col-xs-12 imagen">
+            <div class="flecha"></div>
+        </div>
+        <div class="col-xs-12 contenido" style="height: 64px;">
+            <div class="leer-mas seguridad-privacidad"><a href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-corriente-empresas/" title="Cuenta Corriente Empresas" target="">Leer más</a>
+</div>
+            <h2><a class="title-card-resumen" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-corriente-empresas/" title="Cuenta Corriente Empresas" target="">Cuenta Corriente Empresas</a>
+</h2>
+            
+        </div>
+    </div>
+</div><div class="col-md-6">
+    <div class="entradilla-con-imagenes row-fluid clearfix">
+        <div style="background-image: url(/wps/wcm/connect/www.banistmo.com11237/63699fa2-45f6-4997-82bf-c146069b4458/Depositos_Banner+Home+Producto+4-04.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-63699fa2-45f6-4997-82bf-c146069b4458-nzpiLbP)" class="col-xs-12 imagen">
+            <div class="flecha"></div>
+        </div>
+        <div class="col-xs-12 contenido" style="height: 64px;">
+            <div class="leer-mas seguridad-privacidad"><a href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/deposito-a-plazo-fijo/" title="Depósito a Plazo Fijo" target="">Leer más</a>
+</div>
+            <h2><a class="title-card-resumen" href="/wps/portal/banistmo/empresas/productos-y-servicios/depositos/deposito-a-plazo-fijo/" title="Depósito a Plazo Fijo" target="">Depósito a Plazo Fijo</a>
+</h2>
+            
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0MO0OF0ABLVQR7T87P0"><span id="Z7_8252I1C0MO0OF0ABLVQR7T87P0"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0MO0OF0ABLVQR7T87P0" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0MO0OF0ABLVQR7T87P0</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+               <style>
+        .wptheme1Col .wpthemeCol, .wpthemeInner {width: 100%;float: inherit !important;margin: inherit;}.wpthemeCol {margin-left: 0px !important;}body .wpthemeOverflowAuto {overflow: unset !important;}body .wpthemeClear {clear: none !important;}.wpthemeControl, .wpthemeRow, .wpthemeLayoutContainers {margin: 0 !important;padding: 0 !important;}
+    </style>
+<script>
+  $(document).ready(function(){
+    $(window).resize(function() {
+        if ($(window).width() <= 767) {
+          $('footer .check-list').hide();
+          $('.title').on('click', function(e) {
+            e.preventDefault();
+              $(".title").removeClass('active');
+              $(this).addClass('active');
+                $(this).nextUntil('.active').slideDown('slow');
+                $(".title").not(".active").nextUntil('.title').slideUp('slow');
+          });
+        }else {
+              $('footer .check-list').show();
+          };
+    });
+  });
+</script>
+   
+<footer id="footer-content">
+  <div class="row-fluid shortcuts">
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-3 block">
+              <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" title="Chat en línea"> <img src="/wps/wcm/connect/www.banistmo.com11237/f77e637a-115c-493e-9031-f5bc82db8c06/chat.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f77e637a-115c-493e-9031-f5bc82db8c06-nu3xpR7" alt="Ícono Chat" title="Chat en línea"></a>
+            <div class="txt">
+              <h3 dir="ltr">Chat en línea</h3>
+              <p dir="ltr">Déjanos ayudarte a encontrar lo que buscas</p>
+            </div>          
+          </div>
+          <div class="col-sm-3 block">
+              <a target="_blank" href="/wps/portal/banistmo/empresas/productos-y-servicios/sucursal-telefonica-empresas/"><img src="/wps/wcm/connect/www.banistmo.com11237/69233c16-83ee-4391-8cd0-7c02d7a938d0/phone.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-69233c16-83ee-4391-8cd0-7c02d7a938d0-nu3xTdf" alt="Ícono Llámanos"></a>
+            <div class="txt">
+              <h3 dir="ltr">Llámanos</h3>
+              <p dir="ltr">Nuestras líneas están esperándote</p>
+            </div>
+          </div>
+          <div class="col-sm-3 block">
+              <a title="Déjanos Llamarte" target="" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/dejanos-llamarte"><img src="/wps/wcm/connect/www.banistmo.com11237/682d4335-5b69-4619-818e-918fa94fde9d/call.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-682d4335-5b69-4619-818e-918fa94fde9d-nu3yfBU" alt="Ícono Déjanos Llamarte" title=""></a>
+            <div class="txt">
+              <h3 dir="ltr">Déjanos Llamarte</h3>
+              <p dir="ltr">Nos encantaría hablar contigo</p>
+            </div>
+          </div>
+          <div class="col-sm-3 block last">
+              <a title="Visítanos" target="" href="/wps/portal/banistmo/personas/buscador-sucursales/"><img src="/wps/wcm/connect/www.banistmo.com11237/20953d95-d783-4f42-8e26-9252954e138d/location.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-20953d95-d783-4f42-8e26-9252954e138d-nu3z8eI" alt="Ícono Visítanos" title="Visitanos"></a>
+            <div class="txt">
+              <h3 dir="ltr">Visítanos</h3>
+              <p dir="ltr">Busca nuestro próximo lugar de encuentro</p>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div class="container-fluid links">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="row">
+            <h3 class="title">Comunícate con nosotros</h3>
+            <ul class="check-list" dir="ltr">
+                <li><a href="/wps/portal/banistmo/acerca-de/zona-de-contacto/" target="" title="">Contáctanos</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/trabaja-con-nosotros/" target="" title="">Trabaja con nosotros</a></li>
+            </ul>            
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <h3 class="title">Accesos rápidos</h3>
+            <ul class="check-list" dir="ltr">
+                <li><a href="/wps/portal/banistmo/acerca-de/glosario-de-terminos" target="" title="">Glosario</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/" target="" title="">Sostenibilidad</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/mapa-del-sitio/" target="" title="">Mapa del sitio</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/tarifario/" target="" title="">Tarifario</a></li>
+                <li><a href="https://empresa.banistmo.com/">Transacciones</a></li>
+                <li><a href="https://empresas2.banistmo.com/login">Nueva Banca en Línea Empresas</a></li>
+            </ul>                             
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <h3 class="title">Legales</h3>
+            <ul class="check-list" dir="ltr">
+                <li><a href="/wps/portal/banistmo/acerca-de/seguridad" target="" title="">Seguridad&nbsp;y&nbsp;Privacidad</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/condiciones-generales/" target="" title="">Condiciones generales</a></li>
+                <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/fatca/" target="" title="">FATCA &amp; CRS</a></li>
+                <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/itbms/" target="" title="">ITBMS</a></li>
+                <li><a href="/wps/wcm/connect/www.banistmo.com11237/c4d78b09-894e-4a17-b8c8-624a706daf80/ProhibicionesSuperIntendenciaDeBancosSIB.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c4d78b09-894e-4a17-b8c8-624a706daf80-noplGiy" download="ProhibicionesSuperIntendenciaDeBancosSIB" target="" title="">Prohibiciones</a></li>
+                <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/laft/" target="" title="">Prevención de lavado de activos</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/sala-de-prensa/todos-los-articulos/comunicaciones-corporativas/retencion-de-impuestos-de-inmuebles" target="" title="">Retención de Impuesto de Inmuebles</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/gestion-2019" target="" title="">Gestión 2019</a></li>
+            </ul>                                  
+          </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="row social">
+              <h3>Síguenos en redes:</h3>
+              <ul class="networks" dir="ltr">
+                  <li class="facebook"><a href="https://www.facebook.com/Banistmo">Facebook</a></li>
+                  <li class="twitter"><a href="https://twitter.com/banistmo">Twitter</a></li>
+                  <li class="instagram"><a href="https://www.instagram.com/banistmo/">Instagram</a></li>
+                  <li class="youtube"><a href="https://www.youtube.com/banistmoPanama">YouTube</a></li>
+                  <li class="linkedin"><a href="https://www.linkedin.com/company/banistmo">LinkedIn</a></li>
+              </ul>
+              <img src="/wps/wcm/connect/www.banistmo.com11237/ffbb836a-cf33-427d-a86c-e3a9081228d9/Logo-para-bancos-SBP-2018.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-ffbb836a-cf33-427d-a86c-e3a9081228d9-nopjkle" alt="Superintendencia de Bancos de Panamá" width="66" height="66">
+            </div>
+          </div>        
+        </div>   
+      </div>
+    </div>
+  
+    <div class="row-fluid copy">
+      <div class="container">
+        <div class="col-sm-5">
+          <a href="/wps/portal/banistmo/personas/" class="logo-banistmo">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/de872b1a-fb3b-4e45-a0f1-7850820269bf/logo-banistmo-footer.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-de872b1a-fb3b-4e45-a0f1-7850820269bf-nopjwDV" alt="" width="155" height="26">
+          </a>
+        </div>
+        <div class="col-sm-7">
+          <p dir="ltr">Copyright © 2021 Banistmo</p>
+          <a href="https://www.grupobancolombia.com/personas" class="logo-bancolombia">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/144957fa-bd42-441e-a29b-ef21e673b9a9/logo-bancolombia-footer.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-144957fa-bd42-441e-a29b-ef21e673b9a9-nopjrG1" alt="" width="128" height="30">
+          </a>
+        </div>            
+      </div> 
+    </div>
+
+</footer>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	 
+
+	 
+<div class="wpthemeClear"></div>
+            </div>
+        </div>
+    </div>
+    <!--end main content-->
+
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+    <div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+        <span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+        <script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!gwTp21ty2ecY9GBRnIpZDg/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1633404227900&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"BanistmoThemeEmpresas","themeRootURI":"/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/war/BanistmoThemeEmpresasStatic/themes/Banistmo","themeWebAppBaseURI":"/BanistmoThemeEmpresasDynamic/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:BanistmoThemeEmpresasStatic/themes/Banistmo/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!gwTp21ty2ecY9GBRnIpZDg/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Cuenta de Ahorro Comercial para Empresas Banistmo","currentContentNodeOID":"Z6_38G2HA80N87M00AB62GT7524G0","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!keHmhuG3CoH7wYmTysYPAg/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/BanistmoThemeEmpresasDynamic/themes/html/dynamicSpots","parentPageID":"Z6_38G2HA80N87M00AB62GT752OL5","currentPageOID":"Z6_38G2HA80N87M00AB62GT7524G0","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_38G2HA80N87M00AB62GT7524G0&#034;&gt;&lt;mapping src=&#034;Z6_38G2HA80N87M00AB62GT752GM3&#034; dst=&#034;Z6_38G2HA80N87M00AB62GT7524G0&#034;/&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_38G2HA80N87M00AB62GT7524G0&#034;/&gt;&lt;mapping src=&#034;Z6_38G2HA80N87M00AB62GT7524G0&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_38G2HA80N87M00AB62GT752OL5&#034;/&gt;&lt;node id=&#034;Z6_38G2HA80N87M00AB62GT752GM3&#034;/&gt;&lt;node id=&#034;Z6_2G9I1K41NO8490QLEAGI8QBS03&#034;/&gt;&lt;node id=&#034;Z6_38G2HA80N87M00AB62GT7520B5&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_toolbar_viewframe_validator":"0.0","toolbar":"8.5","wp_dynamicContentSpots_85":"0.0","wp_theme_portal_85":"0.0","wp_client_ext":"0.0","wp_a11y":"0.0","wp_custom_page_style":"0.0","wp_simple_contextmenu_main":"0.0","bco_fonts":"1.0","wp_client_tracing":"0.0","css_wcm_custom":"0.0","wp_toolbar85":"0.0","wp_theme_utils":"0.0","bco_transversal_js":"1.0","wp_toolbar_common":"0.0","photon.dom":"1.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_dialog_draggable":"0.0","wp_toolbar_common_actionbar":"0.0","wp_simple_contextmenu_css":"0.0","wp_themeDynBanistmoEmpresas":"0.0","hasBaseURL":"true","wp_client_logging":"0.0","wp_portal":"0.0","wp_toolbar_contextmenu":"0.0","wp_toolbar_logo":"0.0","wp_toolbar_menuactions":"0.0","bco_transversal_css":"1.0","wp_dialog_css":"0.0","wp_simple_contextmenu_ext":"0.0","wp_photon_dom":"0.0","wp_simple_contextmenu_templates":"0.0","wp_state_page_modes":"0.0","wp_toolbar_sitepreview":"0.0","wp_toolbar_projectmenu":"0.0","wp_toolbar_actionbar":"0.0","wp_searchbar":"0.0","wp_toolbar_moremenu":"0.0","wp_dialog_main":"0.0","wp_modules":"0.0","wp_hiddenpages":"0.0","wp_client_main":"0.0","wp_hiddencontent":"0.0","wp_theme_portal_edit_85":"0.0","wp_portlet_css":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_toolbar_host_view":"0.0","wp_dialog_util":"0.0","wp_state_page":"0.0","simple-contextmenu":"1.1","modules":"0.1","wp_simple_contextmenu_js":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1613427656000&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=bco_transversal_js__1.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1633404228000&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!GlpDsYuyZ-iejg6mAtENiw/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH3136&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"></a></div>
+
+    <script type="text/javascript" src="/BanistmoThemeEmpresasStatic/themes/Banistmo/js/app.js"></script>
+
+
+
+
+</portletapi:init>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1638640773132669");</script>
+
+<script type="text/javascript" id="">fbq("track","PageView");</script><link rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/empresas/productos-y-servicios/depositos/cuenta-de-ahorro-comercial/" hreflang="es-pa"></body></html>
