@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PortalBanistmo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-09T01:26:55" hostname="DESKTOP-7B0E4R2" time="24.75">
+<testsuite name="PortalBanistmo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-12T22:29:10" hostname="DESKTOP-7B0E4R2" time="23.712">
   <properties/>
-  <testcase name="Ir a portal de banistmo y descargar pdf" classname="PortalBanistmo" time="24.75"/>
+  <testcase name="Ir a portal de banistmo y descargar pdf" classname="PortalBanistmo" time="23.712"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@15274ac0
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2c7ad31f
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2c2d9504
-oct 08, 2021 8:26:56 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5f7c92f8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1fadc964
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@77b779b7
+oct 12, 2021 5:29:12 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 35158
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 24346
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-oct 08, 2021 8:26:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+oct 12, 2021 5:29:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@79642856
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@376296da
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4def1ff4
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5c998f10
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@26da2496
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@36f4bae7
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5401941c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@51c7248b
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6bb8360e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@57a33a59
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4245309f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5f2e062b
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7b66104c
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@53b0f61
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6b197984
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1aa81d8c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@f0545ab
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4e2adb5f
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]], When el puede descargar el archivo pdf [Usuario home page pdf [usuario opens the Paginatest pdf]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]], When el puede descargar el archivo pdf [Usuario home page pdf [usuario opens the Paginatest pdf]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]], When el puede descargar el archivo pdf [Usuario home page pdf [usuario opens the Paginatest pdf]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@502aee4c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@39407297
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]], When el puede descargar el archivo pdf [Usuario home page pdf [usuario opens the Paginatest pdf]], Then valida que si se descargo correctamente
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]], When el puede descargar el archivo pdf [Usuario home page pdf [usuario opens the Paginatest pdf]], Then valida que si se descargo correctamente
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Ir a portal de banistmo y descargar pdf:Given el usuario ingresa a la pagina del portal de banistmo [Usuario home page [usuario opens the Paginatest], Usuario steps [usuario clicks on botonproductosServicios, usuario clicks on botonDepositos, usuario clicks on CuentaComercial, usuario clicks on Documentos, usuario clicks on Pdf]], When el puede descargar el archivo pdf [Usuario home page pdf [usuario opens the Paginatest pdf]], Then valida que si se descargo correctamente]

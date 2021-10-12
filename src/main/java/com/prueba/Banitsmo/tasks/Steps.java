@@ -10,11 +10,9 @@ import net.serenitybdd.screenplay.actions.Click;
 import org.openqa.selenium.By;
 
 public class Steps implements Task {
-
     public static Steps navigationpage() {
         return Tasks.instrumented(Steps.class);
     }
-
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(Click.on(Paginatest.PRODUCTOSANDSERVICIOS),
@@ -22,6 +20,5 @@ public class Steps implements Task {
         Click.on(Paginatest.CUENTACOMERCIAL),
         Click.on(Paginatest.DOCUMENTOS),
         Click.on(Paginatest.PDF));
-
     }
 }
