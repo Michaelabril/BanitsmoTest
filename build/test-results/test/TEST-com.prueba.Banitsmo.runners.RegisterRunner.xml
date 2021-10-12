@@ -5,7 +5,7 @@
 
 1 Scenarios (1 passed)
 3 Steps (3 passed)
-0m28.730s
+0m25.081s
 
 ]]></system-out>
   <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
